@@ -1,0 +1,8 @@
+/target
+#ignore ext file
+Module12.iml
+#
+#ignore config files from idea
+.idea/
+out/
+target/
